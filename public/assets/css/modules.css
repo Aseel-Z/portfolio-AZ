@@ -10,7 +10,7 @@ select {
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
-  color: #888;
+  color: rgb(160, 155, 155);
 }
 
 h1,
@@ -20,7 +20,7 @@ h4,
 h5,
 h6 {
   font-weight: 300;
-  color: #666;
+  color: rgb(61, 58, 58);
   line-height: 1.5em;
 }
 
@@ -49,11 +49,11 @@ h2 {
 }
 
 h2.alt {
-  color: #888;
+  color: 
 }
 
 h2.alt strong {
-  color: #666;
+  color: rgb(61, 58, 58);
 }
 
 h3 {
@@ -81,7 +81,7 @@ textarea {
 strong,
 b {
   font-weight: 300;
-  color: #666;
+  color: rgb(61, 58, 58);
 }
 
 em,
@@ -1697,7 +1697,7 @@ form textarea {
   display: block;
   border: 0;
   outline: 0;
-  background: #fff;
+  background: rgb(159, 208, 206);
   background: rgba(255, 255, 255, 0.75);
   width: 100%;
   border-radius: 0.35em;
@@ -1716,7 +1716,7 @@ form input[type="password"]:focus,
 form select:focus,
 form textarea:focus {
   box-shadow: 0 0 2px 1px #8ebebc;
-  background: #fff;
+  background: rgb(159, 208, 206);
 }
 
 form input[type="text"],
@@ -1761,17 +1761,17 @@ table td {
 table th {
   text-align: left;
   padding: 0.5em 1em 0.5em 1em;
-  color: #fff;
+  color: rgb(159, 208, 206);
   background: #222729 url("images/overlay.png");
 }
 
 table thead {
   background: #444;
-  color: #fff;
+  color: rgb(159, 208, 206);
 }
 
 table tfoot {
-  background: #eee;
+  background: rgb(159, 208, 206);
 }
 
 /* Button */
@@ -1784,7 +1784,7 @@ button,
   position: relative;
   display: inline-block;
   border-radius: 0.35em;
-  color: #fff !important;
+  color: rgb(159, 208, 206) !important;
   text-decoration: none;
   padding: 0.75em 2.5em 0.75em 2.5em;
   background-color: #8ebebc;
@@ -1840,7 +1840,7 @@ button:active,
 }
 
 .item header {
-  background: #fff;
+  background: rgb(159, 208, 206);
   margin: 0;
   padding: 1em 0 1em 0;
   font-size: 0.8em;
@@ -1889,7 +1889,7 @@ button:active,
   justify-content: space-between;
   background: #222629 url("images/overlay.png");
   box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
-  color: #fff;
+  color: rgb(159, 208, 206);
   height: 100%;
   left: 0;
   overflow-y: auto;
@@ -1932,7 +1932,7 @@ button:active,
 }
 
 #header .icons a:hover {
-  color: #fff;
+  color: rgb(159, 208, 206);
 }
 
 #logo {
@@ -1944,7 +1944,7 @@ button:active,
 
 #logo h1 {
   position: relative;
-  color: #fff;
+  color: rgb(159, 208, 206);
   font-weight: 600;
   font-size: 1em;
   line-height: 1em;
@@ -2006,11 +2006,11 @@ button:active,
 #nav ul li a.active {
   background: rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
-  color: #fff;
+  color: rgb(159, 208, 206);
 }
 
 #nav ul li a.active span:before {
-  color: #e27689;
+  color:rgb(159, 208, 206);
 }
 
 /* Footer */
@@ -2074,12 +2074,12 @@ button:active,
 }
 
 #main > section.dark strong {
-  color: #fff;
+  color: rgb(159, 208, 206);
   border-color: inherit;
 }
 
 #main > section.dark a {
-  color: #fff;
+  color: rgb(159, 208, 206);
   border-color: inherit;
 }
 
@@ -2095,7 +2095,7 @@ button:active,
 
 #main > section.one {
   background-color: #81918e;
-  background-image: url("../../images/banner.jpg");
+  background-image: url("../../images/about-me.jpg");
 }
 
 #main > section.two {
@@ -2349,7 +2349,7 @@ button:active,
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     content: "\f0c9";
-    color: #fff;
+    color: rgb(159, 208, 206);
     font-size: 18px;
     line-height: 2.25em;
     background: rgba(128, 136, 144, 0.5);
