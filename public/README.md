@@ -25,20 +25,30 @@ For each of the features listed below, make an estimate of the time it will take
 Number and name of feature: Feature #2: Refactor the CSS
 Estimate of time needed to complete:  1 hr
 
-Start time: 4:30
+Start time: 4:30 pm
 
-Finish time: 5:30
+Finish time: 5:30 pm
 
 Actual time needed to complete: 1 hr
 ```
 Number and name of feature: Feature #3: Modify the contents
 Estimate of time needed to complete:  1 hr
 
-Start time: 5:30
-
-Finish time: 7:30
+Start time: 5:30 pm
+ 
+Finish time: 7:30 pm
 
 Actual time needed to complete: 2 hr
+
+```
+Number and name of feature: Feature #4: Add functionality
+Estimate of time needed to complete:  1 hr
+
+Start time: 7:30 pm
+
+Finish time: 8:00 pm
+
+Actual time needed to complete: 30 mins 
 ```
 
 
